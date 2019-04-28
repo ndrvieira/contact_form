@@ -3,9 +3,11 @@
 Um formulário de contato desenvolvido com Laravel
 
 ## Instruções
+Necessário instalar composer
+(https://getcomposer.org/download/)
 
 ### Instalação: ###
-* `git clone https://github.com/bestmomo/laravel5-example.git nomedoprojeto`
+* `git clone https://github.com/ndrvieira/contact_form.git nomedoprojeto`
 * `cd nomedoprojeto`
 * `composer install`
 * `php artisan key:generate`
